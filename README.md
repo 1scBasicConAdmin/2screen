@@ -1,6 +1,24 @@
 # 2screen
 このリポジトリは2画面用です。MSX SCREEN0 WIDTH40 で48行のプログラムを掲載します。
 
+```
+- SCREEN0 40×48で収まること（省略表記は許可:PRINTを?にするなど）
+- マシン語の挿入も許可、ただしアセンブリソースは開示すること
+- 掲載料なしの無報酬
+- 募集期間は月初から月末とする
+- 緩く審査します
+- 月初から2週間の審査期間をおいて、掲載します
+```
+
+```
+- Must fit within SCREEN0 (40×48 characters). Abbreviated notation is allowed (e.g., PRINT → ?).
+- Machine language insertion is permitted, but the assembly source code must be disclosed.
+- No publication fee (unpaid / no compensation).
+- Recruitment period is from the 1st to the last day of the month.
+- Screening will be lenient.
+- After a 2-week review period starting from the beginning of the month, the works will be published.
+```
+
 This repository contains single-screen programs written for MSX SCREEN 0 (WIDTH 40), designed to fit within 48 lines.All programs are released under the MIT License.
 
 MIT License
